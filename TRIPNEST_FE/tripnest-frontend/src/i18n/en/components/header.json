@@ -1,0 +1,15 @@
+{
+    "title": "TripNest",
+    "searchPlaceholder": "Search destinations, listings...",
+    "searchButton": "Search",
+    "login": "Login",
+    "register": "Register",
+    "hotel": "Hotels",
+    "flight": "Flights",
+    "busandshuttle": "Bus & Shuttle",
+    "airporttransfer": "Airport Transfer",
+    "carrental": "Car Rental",
+    "thingstodo": "Things to Do",
+    "more": "More",
+    "contact": "Contact"
+}

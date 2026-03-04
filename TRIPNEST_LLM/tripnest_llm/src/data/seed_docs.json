@@ -1,0 +1,18 @@
+[
+    {
+        "id": "poi_1",
+        "text": "Bright well-lit main street with sidewalks and ramps. Avoid narrow alleys after 9pm.",
+        "metadata": {
+            "type": "safety",
+            "city": "Hanoi"
+        }
+    },
+    {
+        "id": "poi_2",
+        "text": "Stairs at the entrance of building A near X. Recommended to take side ramp.",
+        "metadata": {
+            "type": "access",
+            "city": "Hanoi"
+        }
+    }
+]

@@ -1,0 +1,8 @@
+bybass environment:
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
+execute environment:
+.\.venv\Scripts\Activate.ps1
+ 
+run server:
+python -m uvicorn src.app.main:app --reload --host 0.0.0.0 --port 8000

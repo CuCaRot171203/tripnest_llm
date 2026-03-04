@@ -1,0 +1,35 @@
+{
+    "title": "Tạo tài khoản",
+    "subtitle": "Tạo tài khoản mới bằng email của bạn",
+    "fullNameLabel": "Họ và tên",
+    "emailLabel": "Email",
+    "phoneLabel": "Số điện thoại",
+    "passwordLabel": "Mật khẩu",
+    "confirmPasswordLabel": "Xác nhận mật khẩu",
+    "localeLabel": "Ngôn ngữ",
+    "placeholders": {
+        "fullName": "Nguyễn Văn A",
+        "email": "email@example.com",
+        "phone": "+84901234567",
+        "password": "Mật khẩu",
+        "confirmPassword": "Xác nhận mật khẩu"
+    },
+    "submit": "Đăng ký",
+    "links": {
+        "login": "Đã có tài khoản? Đăng nhập"
+    },
+    "errors": {
+        "requiredFullName": "Vui lòng nhập họ tên",
+        "requiredEmail": "Vui lòng nhập email",
+        "invalidEmail": "Email không hợp lệ",
+        "requiredPhone": "Vui lòng nhập số điện thoại",
+        "invalidPhone": "Số điện thoại không hợp lệ",
+        "requiredPassword": "Vui lòng nhập mật khẩu",
+        "passwordMin": "Mật khẩu tối thiểu 6 ký tự",
+        "requiredConfirm": "Vui lòng xác nhận mật khẩu",
+        "passwordMismatch": "Mật khẩu không khớp"
+    },
+    "success": {
+        "registered": "Đăng ký thành công"
+    }
+}

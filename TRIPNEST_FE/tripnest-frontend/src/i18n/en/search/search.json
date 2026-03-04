@@ -1,0 +1,29 @@
+{
+    "components": {
+        "header": {
+            "profile": "Profile",
+            "orders": "Orders",
+            "logout": "Logout",
+            "contact": "Contact",
+            "hotel": "Hotel",
+            "flight": "Flights",
+            "busandshuttle": "Bus & Shuttle",
+            "airporttransfer": "Airport Transfer",
+            "carrental": "Car Rental",
+            "thingstodo": "Things to Do",
+            "login": "Login",
+            "register": "Register",
+            "searchPlaceholder": "Search...",
+            "searchButton": "Search"
+        },
+        "searchFilters": {
+            "placeholder": "Search properties, cities, landmarks..."
+        }
+    },
+    "pages": {
+        "search": {
+            "title": "Search results",
+            "noResults": "No results found"
+        }
+    }
+}

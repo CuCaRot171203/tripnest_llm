@@ -1,0 +1,24 @@
+{
+    "title": "Đăng Nhập",
+    "subtitle": "Đăng nhập với email và mật khẩu của bạn",
+    "emailLabel": "Email",
+    "passwordLabel": "Mật khẩu",
+    "placeholders": {
+        "email": "email@example.com",
+        "password": "Mật khẩu"
+    },
+    "submit": "Đăng Nhập",
+    "errors": {
+        "requiredEmail": "Email không được để trống",
+        "invalidEmail": "Sai email",
+        "requiredPassword": "Nhập mật khẩu của bạn"
+    },
+    "links": {
+        "register": "Đăng ký",
+        "forgot": "Quên mật khẩu?"
+    },
+    "or": "Hoặc",
+    "social": {
+        "google": "Đăng nhập với Google"
+    }
+}

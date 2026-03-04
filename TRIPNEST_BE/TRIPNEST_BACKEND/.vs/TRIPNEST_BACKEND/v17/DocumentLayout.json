@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SELF_PROJECT\\TRIPNEST\\TRIPNEST_BE\\TRIPNEST_BACKEND\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{509EC9DE-3E59-4EE7-9946-C0789E48DEA6}|APPLICATION\\APPLICATION.csproj|e:\\self_project\\tripnest\\tripnest_be\\tripnest_backend\\application\\services\\search\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{509EC9DE-3E59-4EE7-9946-C0789E48DEA6}|APPLICATION\\APPLICATION.csproj|solutionrelative:application\\services\\search\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{509EC9DE-3E59-4EE7-9946-C0789E48DEA6}|APPLICATION\\APPLICATION.csproj|e:\\self_project\\tripnest\\tripnest_be\\tripnest_backend\\application\\options\\llmoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{509EC9DE-3E59-4EE7-9946-C0789E48DEA6}|APPLICATION\\APPLICATION.csproj|solutionrelative:application\\options\\llmoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B855D6-8EDA-4791-A212-E7FACF3D0209}|API\\API.csproj|e:\\self_project\\tripnest\\tripnest_be\\tripnest_backend\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B855D6-8EDA-4791-A212-E7FACF3D0209}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B855D6-8EDA-4791-A212-E7FACF3D0209}|API\\API.csproj|e:\\self_project\\tripnest\\tripnest_be\\tripnest_backend\\api\\config\\httpclientextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B855D6-8EDA-4791-A212-E7FACF3D0209}|API\\API.csproj|solutionrelative:api\\config\\httpclientextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B855D6-8EDA-4791-A212-E7FACF3D0209}|API\\API.csproj|e:\\self_project\\tripnest\\tripnest_be\\tripnest_backend\\api\\config\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B855D6-8EDA-4791-A212-E7FACF3D0209}|API\\API.csproj|solutionrelative:api\\config\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B855D6-8EDA-4791-A212-E7FACF3D0209}|API\\API.csproj|e:\\self_project\\tripnest\\tripnest_be\\tripnest_backend\\api\\config\\llmoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B855D6-8EDA-4791-A212-E7FACF3D0209}|API\\API.csproj|solutionrelative:api\\config\\llmoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LlmOptions.cs",
+              "DocumentMoniker": "E:\\SELF_PROJECT\\TRIPNEST\\TRIPNEST_BE\\TRIPNEST_BACKEND\\APPLICATION\\Options\\LlmOptions.cs",
+              "RelativeDocumentMoniker": "APPLICATION\\Options\\LlmOptions.cs",
+              "ToolTip": "E:\\SELF_PROJECT\\TRIPNEST\\TRIPNEST_BE\\TRIPNEST_BACKEND\\APPLICATION\\Options\\LlmOptions.cs",
+              "RelativeToolTip": "APPLICATION\\Options\\LlmOptions.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T16:20:02.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SearchService.cs",
+              "DocumentMoniker": "E:\\SELF_PROJECT\\TRIPNEST\\TRIPNEST_BE\\TRIPNEST_BACKEND\\APPLICATION\\Services\\Search\\SearchService.cs",
+              "RelativeDocumentMoniker": "APPLICATION\\Services\\Search\\SearchService.cs",
+              "ToolTip": "E:\\SELF_PROJECT\\TRIPNEST\\TRIPNEST_BE\\TRIPNEST_BACKEND\\APPLICATION\\Services\\Search\\SearchService.cs",
+              "RelativeToolTip": "APPLICATION\\Services\\Search\\SearchService.cs",
+              "ViewState": "AgIAAB4BAAAAAAAAAAAAwDABAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T16:19:23.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\SELF_PROJECT\\TRIPNEST\\TRIPNEST_BE\\TRIPNEST_BACKEND\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "E:\\SELF_PROJECT\\TRIPNEST\\TRIPNEST_BE\\TRIPNEST_BACKEND\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T16:18:58.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HttpClientExtensions.cs",
+              "DocumentMoniker": "E:\\SELF_PROJECT\\TRIPNEST\\TRIPNEST_BE\\TRIPNEST_BACKEND\\API\\Config\\HttpClientExtensions.cs",
+              "RelativeDocumentMoniker": "API\\Config\\HttpClientExtensions.cs",
+              "ToolTip": "E:\\SELF_PROJECT\\TRIPNEST\\TRIPNEST_BE\\TRIPNEST_BACKEND\\API\\Config\\HttpClientExtensions.cs",
+              "RelativeToolTip": "API\\Config\\HttpClientExtensions.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T16:18:41.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LlmOptions.cs",
+              "DocumentMoniker": "E:\\SELF_PROJECT\\TRIPNEST\\TRIPNEST_BE\\TRIPNEST_BACKEND\\API\\Config\\LlmOptions.cs",
+              "RelativeDocumentMoniker": "API\\Config\\LlmOptions.cs",
+              "ToolTip": "E:\\SELF_PROJECT\\TRIPNEST\\TRIPNEST_BE\\TRIPNEST_BACKEND\\API\\Config\\LlmOptions.cs",
+              "RelativeToolTip": "API\\Config\\LlmOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T16:14:33.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "E:\\SELF_PROJECT\\TRIPNEST\\TRIPNEST_BE\\TRIPNEST_BACKEND\\API\\Config\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "API\\Config\\ServiceRegistration.cs",
+              "ToolTip": "E:\\SELF_PROJECT\\TRIPNEST\\TRIPNEST_BE\\TRIPNEST_BACKEND\\API\\Config\\ServiceRegistration.cs",
+              "RelativeToolTip": "API\\Config\\ServiceRegistration.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAgwIMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T15:49:18.987Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+    "title": "Create an account",
+    "subtitle": "Create a new account using your email",
+    "fullNameLabel": "Full name",
+    "emailLabel": "Email",
+    "phoneLabel": "Phone",
+    "passwordLabel": "Password",
+    "confirmPasswordLabel": "Confirm password",
+    "localeLabel": "Language",
+    "placeholders": {
+        "fullName": "John Doe",
+        "email": "email@example.com",
+        "phone": "+1234567890",
+        "password": "Password",
+        "confirmPassword": "Confirm password"
+    },
+    "submit": "Register",
+    "links": {
+        "login": "Already have an account? Sign in"
+    },
+    "errors": {
+        "requiredFullName": "Please enter your full name",
+        "requiredEmail": "Please enter your email",
+        "invalidEmail": "Invalid email",
+        "requiredPhone": "Please enter your phone number",
+        "invalidPhone": "Invalid phone number",
+        "requiredPassword": "Please enter your password",
+        "passwordMin": "Password must be at least 6 characters",
+        "requiredConfirm": "Please confirm your password",
+        "passwordMismatch": "Passwords do not match"
+    },
+    "success": {
+        "registered": "Registration successful"
+    }
+}

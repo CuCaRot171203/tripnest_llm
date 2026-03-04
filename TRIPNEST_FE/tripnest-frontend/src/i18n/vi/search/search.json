@@ -1,0 +1,29 @@
+{
+    "components": {
+        "header": {
+            "profile": "Hồ sơ",
+            "orders": "Đơn hàng",
+            "logout": "Đăng xuất",
+            "contact": "Liên hệ",
+            "hotel": "Khách sạn",
+            "flight": "Chuyến bay",
+            "busandshuttle": "Xe buýt & xe trung chuyển",
+            "airporttransfer": "Đưa đón sân bay",
+            "carrental": "Thuê xe",
+            "thingstodo": "Hoạt động",
+            "login": "Đăng nhập",
+            "register": "Đăng ký",
+            "searchPlaceholder": "Tìm kiếm...",
+            "searchButton": "Tìm"
+        },
+        "searchFilters": {
+            "placeholder": "Tìm theo địa điểm, tên chỗ, hoặc tiện ích..."
+        }
+    },
+    "pages": {
+        "search": {
+            "title": "Kết quả tìm kiếm",
+            "noResults": "Không có kết quả"
+        }
+    }
+}

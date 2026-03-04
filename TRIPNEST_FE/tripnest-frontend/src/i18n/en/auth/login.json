@@ -1,0 +1,24 @@
+{
+    "title": "Login",
+    "subtitle": "Sign in with your email and password",
+    "emailLabel": "Email",
+    "passwordLabel": "Password",
+    "placeholders": {
+        "email": "email@example.com",
+        "password": "Password"
+    },
+    "submit": "Sign in",
+    "errors": {
+        "requiredEmail": "Please enter your email",
+        "invalidEmail": "Invalid email address",
+        "requiredPassword": "Please enter your password"
+    },
+    "links": {
+        "register": "Register",
+        "forgot": "Forgot password?"
+    },
+    "or": "Or",
+    "social": {
+        "google": "Sign in with Google"
+    }
+}
